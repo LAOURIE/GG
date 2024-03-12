@@ -1,0 +1,133 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.portfolio {
+    width:683px;
+    height: 1705px;
+    background-color: bisque;
+    margin-left: 600px;
+
+    
+}
+.top{
+    width: 683px;
+    height: 280px;
+    display: flex;
+    
+}
+.left {
+    margin-left: 50px;
+    width: 500px;
+}
+.left h1{
+    width: 285px;
+    height: 150px;
+    left: 16px;
+    margin-top: 50px;
+    font-size: 60px;
+    margin-left: 50px;
+
+}
+
+
+.right img{
+    width: 268px;
+    height: 260px;
+    border-radius: 50%;
+    margin-right:20px;
+    margin-top: 20px;
+}
+.about{
+    height: 250px;
+    left: 35px;
+}
+.intro h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    height: 24px;
+    font-size: 40px;
+}
+.intro p{
+    text-align: center;
+    font-size: 14px;
+}
+.skill{
+    height: 217px;
+}
+.skill h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.list{
+    margin-left: 30px;
+    font-size: 20px;  
+    font-weight: 500;
+}
+.projo{
+    width: 578px;
+    height: 211px;
+
+}
+.projo h1{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 60px;  
+}
+.boxes-1{
+    height: 103px;
+    display: flex;
+    margin-left: 50px;
+}
+.box1, .box2, .box3, .box4, .box5, .box6{
+    width: 132px;
+    height: 103px;
+    border: 1px solid;
+    margin: auto;
+    background-color: blue;
+}
+.boxes-2{
+    height: 211px;
+    display: flex;
+    margin-left: 50px;
+}
+.contacts{
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.contacts h1{
+    text-align: center;
+    font-size: 40px;
+    margin-right: 60px;
+}
+.NM {
+    font-size: 18px;
+}
+.name{
+    width: 500px;
+    height: 30px;
+}
+.EM{
+    font-size: 18px;
+}
+.email{
+    width: 500px;
+    height: 30px;
+}
+:placeholder-shown{
+    font-size: 20px;
+}
+.message{
+    width: 500px;
+    height: 100px;
+    margin-top: 30px;
+}
+.btn{
+    width: 400px;
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 50px;
+    border-radius: 50px;
+
+}
